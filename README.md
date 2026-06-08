@@ -405,6 +405,6 @@ MIT © 2025 [Idiot Innovators](https://idiotinnovators.com)
 
 **[⬆ Back to top](#-ui-referee)**
 
-Made with 🟥 by [Idiot Innovators](https://idiotinnovators.com) · CDN: `https://idiotinnovators.com/ui-referee.js`
+Made with love by [Idiot Innovators Research And Development](https://idiotinnovators.com) · CDN: `https://idiotinnovators.com/ui-referee.js`
 
 </div>
