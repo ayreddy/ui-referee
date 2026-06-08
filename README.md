@@ -15,7 +15,7 @@ Click any element on any webpage. Leave a note. Export structured, AI-ready cont
 ---
 
 <!-- Replace with your actual GIF -->
-![UI-Referee in action](docs/demo.gif)
+![UI-Referee in action](demo.gif)
 
 ---
 
